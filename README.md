@@ -3,6 +3,7 @@
 The tweets were collected using the top-six trending hashtags – *#Omicron*, *#OmicronVariant*, *#OmicronVarient*, *#OmicronInIndia*, *#OmicronVirus*, and *#Omicronvirus india* from December 17, 2021 to February 4, 2022 using Twitter’s Tweepy API.
 Each instance in the dataset is classified according to three sentiment classes are: positive, negative, and neutral and five emotion classes are: *sadness*, *joy*, *fear*, *disgust*, and *anger*. 
 Using a multi-model setup, namely *IBM Watson NLU API*, *Komprehend Text Analysis API*, and *Text2emotion python package* to annotate the dataset to quantify all aspects of model uncertainty.
+Due to the Twitter policy, ids, text, and their respective labels (Sentiment_Score, Sentiment_Label, Emotion_Sadness, Emotion_Joy, Emotion_Fear, Emotion_Disgust, and Emotion_Anger) are shared for MINDS dataset.
 
 For more details on the design and content of the dataset, please see our paper.
 
