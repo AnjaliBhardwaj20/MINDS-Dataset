@@ -7,7 +7,7 @@ Due to the Twitter policy, ids, text, and their respective labels (Sentiment_Sco
 
 This directory includes the dataset in CSV format for the aformentioned hashtags.
 
-For more details on the design and content of the dataset, please see our [paper](http://www.abulaish.com/ldsa/publication?order=year-wise).
+For more details on the design and content of the dataset, please see our [paper](https://ceur-ws.org/Vol-3416/paper_2.pdf).
 
 -------------------------
 Pre-requisite:
@@ -21,4 +21,4 @@ Pre-requisite:
 7. Text2emotion python package
 
 ## Cite paper:
-Anjali Bhardwaj and Muhammad Abulaish, In Proceedings of the Workshop on Context-aware NLP in eHealth, Co-located with the 19th International Conference on Natural Language Processing (ICON), IIIT Delhi, India, December 15-18, 2022, pp. 1-8.
+Bhardwaj, A., & Abulaish, M. (2023). MINDS: A Multi-label Emotion and Sentiment Classification Dataset Related to COVID-19, In Proceedings of the WNLPe-Health 2022: The First Workshop on Context-aware NLP in eHealth, Co-located with the 19th International Conference on Natural Language Processing (ICON), IIIT Delhi, India, December 15-18, 2022.
